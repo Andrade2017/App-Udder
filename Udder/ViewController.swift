@@ -22,6 +22,10 @@ class ViewController: UIViewController {
     override func viewDidLayoutSubviews() {
         //
     }
+    
+    override func viewLayoutMarginsDidChange() {
+        //
+    }
 
 }
 
